@@ -1,5 +1,5 @@
-# NucleoTIDE-Hack
-Our 2020 NucleoTIDE hackathon project is a stoichiometry calculator with 5 different calculators! All of them are listed below in features.
+# Stochiometer
+Our 2020 NucleoTIDE hackathon project is a stoichiometry calculator with 5 different calculators! All of them are listed below in features. You can take a look at the Devpost [here](https://devpost.com/software/stochiometer)!
 
 ## Table of Contents
 * [Dependencies](#dependencies)
