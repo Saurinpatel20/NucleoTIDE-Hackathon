@@ -17,7 +17,7 @@ Our 2020 NucleoTIDE hackathon project is a stoichiometry calculator with 5 diffe
 * Make sure all the dependencies are installed
 * Download the files
   * Option 1: 🍴 Fork this repository!
-  * Option 2: 🧪 Clone the repository to your local machine using https://github.com/AviAvinav/NucleoTIDE-Hack.git!
+  * Option 2: 🧪 Clone the repository to your local machine using https://github.com/Saurinpatel20/Nucleotide-Hackathon.git!
 * Run index.html and hack away!
 
 
